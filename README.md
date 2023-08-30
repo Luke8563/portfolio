@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Software Engineering Portfolio</title>
+    <title> Your Name - Software Engineering Portfolio </title>
     <link rel="stylesheet" href="styles.css"> <!-- Link to your custom CSS file -->
     <style>
         /* Define your CSS styles here */
