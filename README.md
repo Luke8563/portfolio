@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Name - Software Engineering Portfolio</title>
     <link rel="stylesheet" href="styles.css"> <!-- Link to your custom CSS file -->
+    <style>
+        /* Define your CSS styles here */
+    </style>
 </head>
 <body>
     <header>
